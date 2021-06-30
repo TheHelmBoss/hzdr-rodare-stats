@@ -1,0 +1,2 @@
+# hzdr-rodare-stats
+This repository is part of the examination task for obtaining a "Data Librarian" certificate as part of the "Data Librarian" certificate course 2020/21.  It contains a written explanation of the procedure and code for the automatic generation of statistics and graphs, which should contextualise the publication output of the HZDR research data repository RODARE and enable a classification or development trends. 
